@@ -1,51 +1,15 @@
 [
 	{
-		"venue": "EMNLP",
-		"area": "CL",
-		"link": "http://emnlp2017.net/",
-		"deadline": "April 14, 2017 23:59 UTC-7"
+		"venue": "ECCV 2018",
+		"area": "Computer Vision",
+		"link": "https://eccv2018.org/",
+		"deadline": "March 14, 2018 23:59 PST"
 	},
 	{
-		"venue": "EACL SRW 2017",
-		"area": "CL",
-		"link": "https://sites.google.com/site/eaclsrw2017/",
-		"deadline": "November 27, 2016 23:59 GMT+1"
-	},
-	{
-		"venue": "ACL",
-		"area": "CL",
-		"link": "http://acl2017.org",
-		"deadline": "February 6, 2017 23:59 PDT"
-	},
-	{
-		"venue": "IJCAI",
-		"area": "AI",
-		"link": "http://ijcai-17.org",
-		"deadline": "February 19, 2017 23:59 UTC+11"
-	},
-	{
-		"venue": "IJCNLP",
-		"area": "CL",
-		"link": "http://ijcnlp2017.org",
-		"deadline": "July 7, 2017 23:59 UTC-7"
-	},
-	{
-		"venue": "WWW - paper",
-		"area": "Web",
-		"link": "http://www2017.com.au/call-for-papers/",
-		"deadline": "October 24, 2016 23:59 UTC-10"
-	},
-	{
-		"venue": "CVPR",
-		"area": "CV",
-		"link": "http://www.wsdm-conference.org/2016/",
-		"deadline": "November 10, 2018 00:00 PST"
-	},
-	{
-		"venue": "WSDM - paper",
-		"area": "Web",
-		"link": "http://www.wsdm-conference.org/2016/",
-		"deadline": "July 17, 2015 00:00 GMT-11"
+		"venue": "CVPR 2018 Workshop",
+		"area": "Computer Vision",
+		"link": "http://cvpr2018.thecvf.com/",
+		"deadline": "April 10, 2018 23:59 PST"
 	},
 	{
 		"venue": "ICPR 2018",
@@ -58,6 +22,12 @@
 		"area": "Computer Vision",
 		"link": "http://bmvc2018.org/",
 		"deadline": "April 30, 2018 23:59 PST"
+	},
+	{
+		"venue": "CVPR 2019",
+		"area": "CV",
+		"link": "http://www.wsdm-conference.org/2016/",
+		"deadline": "November 10, 2018 00:00 PST"
 	},
 	{
 		"venue": "UbiComp 2018",
