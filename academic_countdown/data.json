@@ -130,7 +130,7 @@
 		"area": "CL",
 		"deadline": "May 8, 2016, 23:59 GMT-12",
 		"link": "https://www.sigwac.org.uk/wiki/WAC-X"
-	},	
+	},
 	{
 		"venue": "StarSem",
 		"area": "CL",
@@ -184,25 +184,25 @@
 		"area": "Computational Linguistics",
 		"deadline": "25 October 2015 23:59 UTC+2",
 		"link": "http://lrec2016.lrec-conf.org/en/"
-	},	
+	},
 	{
 		"venue": "RANLP",
 		"area": "Computational Linguistics",
 		"deadline": "May 11, 2015 23:59 UTC-11",
 		"link": "http://lml.bas.bg/ranlp2015/cfpf.php"
-	},		
+	},
 	{
 		"venue": "STATISTICAL LANGUAGE AND SPEECH PROCESSING (SLSP)",
 		"area": "Speech",
 		"deadline": "June 23, 2015 23:59 UTC+1",
 		"link": "http://grammars.grlmc.com/SLSP2015/"
-	},	
+	},
 	{
 		"venue": "Knowledge Capture (K-CAP)",
 		"area": "Data Mining",
 		"deadline": "June 1, 2015 23:59 UTC-11",
 		"link": "http://www.k-cap2015.org/"
-	},	
+	},
 	{
 		"venue": "Depling2015",
 		"area": "Computational Linguistics",
@@ -218,17 +218,17 @@
 	{
 		"venue": "CIKM",
 		"area": "Computational Linguistics",
-		"deadline": "1 May 2015 00:00 GMT+12"	
+		"deadline": "1 May 2015 00:00 GMT+12"
 	},
 	{
 		"venue": "EUROLAN 2015",
 		"area": "CompuDoctoral Consortium - Computational Linguistics",
-		"deadline": "17 May 2015 00:00 GMT+12"	
+		"deadline": "17 May 2015 00:00 GMT+12"
 	},
 	{
 		"venue": "10th Web as Corpus Workshop (WaC-10) @ ​eLex 2015",
 		"area": "Computational Linguistics",
-		"deadline": "24 April 2015 00:00 GMT-12"	
+		"deadline": "24 April 2015 00:00 GMT-12"
 	},
 	{
 		"venue": "NLPCS 2015 : Natural Language Processing and Cognitive Science",
@@ -261,6 +261,12 @@
 		"area": "Web",
 		"link": "http://www.wsdm-conference.org/2016/",
 		"deadline": "July 10, 2015 00:00 GMT-11"
+	},
+	{
+		"venue": "????",
+		"area": "CV",
+		"link": "http://www.wsdm-conference.org/2016/",
+		"deadline": "July 10, 2015 00:00 PST"
 	},
 	{
 		"venue": "WSDM - paper",
