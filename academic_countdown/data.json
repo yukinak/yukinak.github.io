@@ -1,11 +1,5 @@
 [
 	{
-		"venue": "LREC",
-		"area": "CL",
-		"link": "http://lrec2018.lrec-conf.org",
-		"deadline": "October 02, 2017 23:59 UTC"
-	},
-	{
 		"venue": "ECCV 2018",
 		"area": "Computer Vision",
 		"link": "https://eccv2018.org/",
