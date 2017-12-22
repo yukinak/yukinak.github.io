@@ -1,9 +1,39 @@
 [
 	{
+		"venue": "ICASSP 2018",
+		"area": "Acoustics, Speech and Signal Processing",
+		"link": "https://2018.ieeeicassp.org/default.asp",
+		"deadline": "October 27, 2017 23:59 PST"
+	},
+	{
+		"venue": "WACV 2018",
+		"area": "Computer Vision",
+		"link": "http://wacv18.uccs.us/",
+		"deadline": "September 8, 2017 23:59 PST"
+	},
+	{
+		"venue": "AAAI 2018",
+		"area": "AI",
+		"link": "http://www.aaai.org/Conferences/AAAI/aaai18.php",
+		"deadline": "September 11, 2017 23:59 PST"
+	},
+	{
+		"venue": "ICML 2018",
+		"area": "Machine Learning",
+		"link": "https://icml.cc/",
+		"deadline": "February 9, 2018 23:59 PST"
+	},
+	{
 		"venue": "ECCV 2018",
 		"area": "Computer Vision",
 		"link": "https://eccv2018.org/",
 		"deadline": "March 14, 2018 23:59 PST"
+	},
+	{
+		"venue": "SMC 2018",
+		"area": "Cybernetics",
+		"link": "http://www.smc2018.org/",
+		"deadline": "March 31, 2018 23:59 PST"
 	},
 	{
 		"venue": "CVPR 2018 Workshop",
@@ -18,21 +48,33 @@
 		"deadline": "February 19, 2018 23:59 PST"
 	},
 	{
+		"venue": "ICIP 2018",
+		"area": "Image Processing",
+		"link": "https://2018.ieeeicip.org/",
+		"deadline": "February 7, 2018 23:59 PST"
+	},
+	{
 		"venue": "BMVC 2018",
-		"area": "Computer Vision",
+		"area": "Machine Vision",
 		"link": "http://bmvc2018.org/",
 		"deadline": "April 30, 2018 23:59 PST"
 	},
+	{
+		"venue": "ACCV 2018",
+		"area": "Computer Vision",
+		"link": "http://conference.researchbib.com/view/event/71171",
+		"deadline": "May 23, 2018 23:59 PST"
+	},	
+	{
+		"venue": "NIPS 2018",
+		"area": "Machine Learning",
+		"link": "https://nips.cc/Conferences/2018/Dates",
+		"deadline": "May 17, 2018 23:59 PST"
+	},	
 	{
 		"venue": "CVPR 2019",
 		"area": "CV",
 		"link": "http://www.wsdm-conference.org/2016/",
 		"deadline": "November 10, 2018 00:00 PST"
-	},
-	{
-		"venue": "UbiComp 2018",
-		"area": "UC",
-		"link": "http://conference.researchbib.com/view/event/71171",
-		"deadline": "May 23, 2018 23:59 PST"
 	}
 ]
