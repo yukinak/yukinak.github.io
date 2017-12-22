@@ -6,21 +6,27 @@
 		"deadline": "October 02, 2017 23:59 UTC"
 	},
 	{
-		"venue": "ECCV2018",
+		"venue": "ECCV 2018",
 		"area": "Computer Vision",
 		"link": "https://eccv2018.org/",
 		"deadline": "March 14, 2018 23:59 UTC-7"
 	},
 	{
-		"venue": "CVPR2018 Workshop",
+		"venue": "CVPR 2018 Workshop",
 		"area": "Computer Vision",
 		"link": "http://cvpr2018.thecvf.com/",
 		"deadline": "April 10, 2018 23:59 UTC-7"
 	},
 	{
-		"venue": "ICPR2018",
+		"venue": "ICPR 2018",
 		"area": "Pattern Recognition",
 		"link": "http://ijcai-17.org",
-		"deadline": "February 19, 2017 23:59 UTC+11"
+		"deadline": "February 19, 2017 23:59 UTC-7"
 	},
+	{
+		"venue": "UbiComp 2018",
+		"area": "UC",
+		"link": "http://conference.researchbib.com/view/event/71171",
+		"deadline": "May 23, 2017 23:59 UTC+11"
+	}
 ]
