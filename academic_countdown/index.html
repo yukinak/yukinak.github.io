@@ -62,11 +62,6 @@ $.getJSON(datasource, function(data) {
   });
 });
 
-// Friday, March 1st, 11:59pm UTC
-//deadlines.push({venue: "UAI", area: "Machine Learning", deadline: new Date("Friday, March 1st, 11:59pm UTC"), approx: 1});
-// Mar. 15, 2013
-//deadlines.push({venue: "IROS", area: "Robotics", deadline: new Date(2014, 2, 15, 23, 59, 0, 0)});
-
 // Display function, called every second or so
 function refreshDisplay() {
 
@@ -174,7 +169,7 @@ $(document).ready(function() {
   }
 
   // create a link button for showing and hiding estimates from past years
-  /*
+
   var btn_estimates = "btn-show-hide-estimates";
   $("div#deadlinesdiv").append("</br><div id='" + btn_estimates + "'>show estimates</div></br>");
   $("#"+btn_estimates).click(function(){
@@ -194,7 +189,6 @@ $(document).ready(function() {
 		}
 	}
   });
-  */
 
 
   for(var i=0;i<deadlines_approx.length;i++) {
