@@ -24,7 +24,7 @@
 		"deadline": "February 9, 2018 23:59 PST"
 	},
 	{
-		"venue": "ECCV 2018",
+		"venue": "**ECCV 2018**",
 		"area": "Computer Vision",
 		"link": "https://eccv2018.org/",
 		"deadline": "March 14, 2018 23:59 PST"
@@ -54,7 +54,7 @@
 		"deadline": "February 7, 2018 23:59 PST"
 	},
 	{
-		"venue": "BMVC 2018",
+		"venue": "**BMVC 2018**",
 		"area": "Machine Vision",
 		"link": "http://bmvc2018.org/",
 		"deadline": "April 30, 2018 23:59 PST"
@@ -72,7 +72,7 @@
 		"deadline": "May 17, 2018 23:59 PST"
 	},	
 	{
-		"venue": "CVPR 2019",
+		"venue": "**CVPR 2019**",
 		"area": "CV",
 		"link": "http://www.wsdm-conference.org/2016/",
 		"deadline": "November 10, 2018 00:00 PST"
