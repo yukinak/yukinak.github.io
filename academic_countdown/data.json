@@ -48,12 +48,6 @@
 		"deadline": "April 30, 2018 23:59 PST"
 	},
 	{
-		"venue": "ACCV 2018",
-		"area": "Computer Vision",
-		"link": "http://conference.researchbib.com/view/event/71171",
-		"deadline": "May 23, 2018 23:59 PST"
-	},	
-	{
 		"venue": "NIPS 2018",
 		"area": "Machine Learning",
 		"link": "https://nips.cc/Conferences/2018/Dates",
@@ -65,6 +59,12 @@
 		"link": "http://wacv19.uccs.us/dates/",
 		"deadline": "June 29, 2018 23:59 PST"
 	},	
+	{
+		"venue": "ACCV 2018",
+		"area": "Computer Vision",
+		"link": "http://accv2018.net/",
+		"deadline": "July 5, 2018 23:59 PST"
+	},
 	{
 		"venue": "ECCVW- EPIC 2018",
 		"area": "Computer Vision",
@@ -86,7 +86,7 @@
 	{
 		"venue": "**CVPR 2019**",
 		"area": "CV",
-		"link": "http://www.wsdm-conference.org/2016/",
+		"link": "http://cvpr2019.thecvf.com/",
 		"deadline": "November 10, 2018 00:00 PST"
 	}
 ]
