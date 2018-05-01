@@ -6,25 +6,13 @@
 		"deadline": "October 27, 2017 23:59 PST"
 	},
 	{
-		"venue": "WACV 2018",
-		"area": "Computer Vision",
-		"link": "http://wacv18.uccs.us/",
-		"deadline": "September 8, 2017 23:59 PST"
-	},
-	{
-		"venue": "AAAI 2018",
-		"area": "AI",
-		"link": "http://www.aaai.org/Conferences/AAAI/aaai18.php",
-		"deadline": "September 11, 2017 23:59 PST"
-	},
-	{
 		"venue": "ICML 2018",
 		"area": "Machine Learning",
 		"link": "https://icml.cc/",
 		"deadline": "February 9, 2018 23:59 PST"
 	},
 	{
-		"venue": "**ECCV 2018**",
+		"venue": "ECCV 2018",
 		"area": "Computer Vision",
 		"link": "https://eccv2018.org/",
 		"deadline": "March 14, 2018 14:59 PST"
@@ -54,7 +42,7 @@
 		"deadline": "February 7, 2018 23:59 PST"
 	},
 	{
-		"venue": "**BMVC 2018**",
+		"venue": "BMVC 2018",
 		"area": "Machine Vision",
 		"link": "http://bmvc2018.org/",
 		"deadline": "April 30, 2018 23:59 PST"
@@ -70,11 +58,43 @@
 		"area": "Machine Learning",
 		"link": "https://nips.cc/Conferences/2018/Dates",
 		"deadline": "May 17, 2018 23:59 PST"
+	},
+	{
+		"venue": "WACV 2019",
+		"area": "Computer Vision",
+		"link": "http://wacv19.uccs.us/dates/",
+		"deadline": "June 29, 2018 23:59 PST"
+	},	
+	{
+		"venue": "ECCVW- EPIC 2018",
+		"area": "Computer Vision",
+		"link": "http://www.eyewear-computing.org/EPIC_ECCV18/index.html",
+		"deadline": "July 6, 2018 14:59 PST"
+	},		
+	{
+		"venue": "ECCVW- SiVL 2018",
+		"area": "Computer Vision",
+		"link": "https://sites.google.com/view/sivl",
+		"deadline": "July 9, 2018 14:59 PST"
+	},	
+	{
+		"venue": "AAAI 2019",
+		"area": "AI",
+		"link": "https://aaai.org/Conferences/AAAI-19",
+		"deadline": "September 1, 2018 23:59 UTC"
 	},	
 	{
 		"venue": "**CVPR 2019**",
 		"area": "CV",
 		"link": "http://www.wsdm-conference.org/2016/",
 		"deadline": "November 10, 2018 00:00 PST"
+	},
+	{
+		"venue": "**ICCV 2019**",
+		"area": "CV",
+		"link": "https://waset.org/conference/2019/01/zurich/ICCV	",
+		"deadline": "November 10, 2018 00:00 PST"
 	}
+	
+
 ]
