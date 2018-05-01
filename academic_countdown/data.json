@@ -81,20 +81,12 @@
 		"venue": "AAAI 2019",
 		"area": "AI",
 		"link": "https://aaai.org/Conferences/AAAI-19",
-		"deadline": "September 1, 2018 23:59 UTC"
+		"deadline": "September 1, 2018 23:59 PST"
 	},	
 	{
 		"venue": "**CVPR 2019**",
 		"area": "CV",
 		"link": "http://www.wsdm-conference.org/2016/",
 		"deadline": "November 10, 2018 00:00 PST"
-	},
-	{
-		"venue": "**ICCV 2019**",
-		"area": "CV",
-		"link": "https://waset.org/conference/2019/01/zurich/ICCV	",
-		"deadline": "November 10, 2018 00:00 PST"
 	}
-	
-
 ]
