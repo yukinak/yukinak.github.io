@@ -1,5 +1,25 @@
 [
 	{
+		"venue": "**CVPR 2019**",
+		"area": "CV",
+		"link": "http://cvpr2019.thecvf.com/",
+		"deadline": "November 16, 2018 00:00 PST"
+	},
+	{
+		"venue": "WACV 2019",
+		"area": "Computer Vision",
+		"link": "http://wacv19.uccs.us/dates/",
+		"deadline": "September 21, 2018 23:59 PST"
+	},	
+	{
+		"venue": "AAAI 2019",
+		"area": "AI",
+		"link": "https://aaai.org/Conferences/AAAI-19",
+		"deadline": "September 1, 2018 1:59 PST"
+	},	
+
+	
+	{
 		"venue": "ICASSP 2018",
 		"area": "Acoustics, Speech and Signal Processing",
 		"link": "https://2018.ieeeicassp.org/default.asp",
@@ -54,39 +74,9 @@
 		"deadline": "May 17, 2018 23:59 PST"
 	},
 	{
-		"venue": "WACV 2019",
-		"area": "Computer Vision",
-		"link": "http://wacv19.uccs.us/dates/",
-		"deadline": "June 29, 2018 23:59 PST"
-	},	
-	{
 		"venue": "ACCV 2018",
 		"area": "Computer Vision",
 		"link": "http://accv2018.net/",
 		"deadline": "July 5, 2018 23:59 PST"
-	},
-	{
-		"venue": "ECCVW- EPIC 2018",
-		"area": "Computer Vision",
-		"link": "http://www.eyewear-computing.org/EPIC_ECCV18/index.html",
-		"deadline": "July 6, 2018 14:59 PST"
-	},		
-	{
-		"venue": "ECCVW- SiVL 2018",
-		"area": "Computer Vision",
-		"link": "https://sites.google.com/view/sivl",
-		"deadline": "July 9, 2018 14:59 PST"
-	},	
-	{
-		"venue": "AAAI 2019",
-		"area": "AI",
-		"link": "https://aaai.org/Conferences/AAAI-19",
-		"deadline": "September 1, 2018 23:59 PST"
-	},	
-	{
-		"venue": "**CVPR 2019**",
-		"area": "CV",
-		"link": "http://cvpr2019.thecvf.com/",
-		"deadline": "November 10, 2018 00:00 PST"
 	}
 ]
