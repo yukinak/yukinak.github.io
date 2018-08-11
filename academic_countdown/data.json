@@ -1,9 +1,21 @@
 [
 	{
+		"venue": "ICCV 2019",
+		"area": "Computer Vision",
+		"link": "https://eccv2018.org/",
+		"deadline": "March 14, 2019 23:59 PST"
+	},
+	{
 		"venue": "**CVPR 2019**",
-		"area": "CV",
+		"area": "Computer Vision",
 		"link": "http://cvpr2019.thecvf.com/",
 		"deadline": "November 16, 2018 00:00 PST"
+	},
+	{
+		"venue": "ICASSP 2019",
+		"area": "Acoustics, Speech and Signal Processing",
+		"link": "https://2019.ieeeicassp.org/",
+		"deadline": "October 29, 2018 23:59 PST"
 	},
 	{
 		"venue": "WACV 2019",
@@ -17,7 +29,7 @@
 		"link": "https://aaai.org/Conferences/AAAI-19",
 		"deadline": "September 1, 2018 1:59 PST"
 	},	
-
+	
 	
 	{
 		"venue": "ICASSP 2018",
